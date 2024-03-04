@@ -1,0 +1,15 @@
+/visualizations
+*.egg-info
+*__pycache__
+
+.vscode/
+test/
+
+
+*.png
+
+visualize/
+experiments/
+submission/
+visualize/
+batch_example_visualization/
